@@ -10,7 +10,9 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.SwingConstants;
 
-public class Calculator {
+// Creating a calculator using java.
+
+	public class Calculator {
 
 	private JFrame frame;
 	private JTextField textField;
